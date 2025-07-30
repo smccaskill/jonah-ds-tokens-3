@@ -1,0 +1,142 @@
+{
+  "Font Size": {
+    "Display": {
+      "Display 1": {
+        "value": "55",
+        "type": "fontSizes"
+      },
+      "Display 2": {
+        "value": "48",
+        "type": "fontSizes"
+      },
+      "Display 3": {
+        "value": "36",
+        "type": "fontSizes"
+      }
+    },
+    "Primary": {
+      "Heading 1": {
+        "value": "32",
+        "type": "fontSizes"
+      },
+      "Heading 2": {
+        "value": "28",
+        "type": "fontSizes"
+      },
+      "Heading 3": {
+        "value": "24",
+        "type": "fontSizes"
+      },
+      "Heading 4": {
+        "value": "20",
+        "type": "fontSizes"
+      },
+      "Heading 5": {
+        "value": "18",
+        "type": "fontSizes"
+      },
+      "Heading 6": {
+        "value": "16",
+        "type": "fontSizes"
+      }
+    },
+    "Secondary": {
+      "Body Extra Large": {
+        "value": "18",
+        "type": "fontSizes"
+      },
+      "Body Large": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "Body Medium": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "Body Small": {
+        "value": "12",
+        "type": "fontSizes"
+      },
+      "Body Extra Small": {
+        "value": "10",
+        "type": "fontSizes"
+      },
+      "Button Large": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "Button Medium": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "Button Small": {
+        "value": "12",
+        "type": "fontSizes"
+      },
+      "Button Extra Small": {
+        "value": "10",
+        "type": "fontSizes"
+      },
+      "Text Link Large": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "Text Link Medium": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "Text Link Small": {
+        "value": "12",
+        "type": "fontSizes"
+      }
+    }
+  },
+  "Component": {
+    "Overlay Card": {
+      "Button": {
+        "value": "false",
+        "type": "boolean",
+        "description": "Hides the button on mobile"
+      },
+      "Description": {
+        "value": "true",
+        "type": "boolean",
+        "description": "Hides the description on mobile"
+      }
+    }
+  },
+  "Button": {
+    "Height": {
+      "sm": {
+        "value": "{Premium One.Button Height.sm} - 8",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "{Premium One.Button Height.md} - 8",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "{Premium One.Button Height.lg} - 8",
+        "type": "sizing"
+      }
+    }
+  },
+  "Size": {
+    "Container": {
+      "Max Width": {
+        "value": "{Viewport.360}",
+        "type": "sizing"
+      }
+    },
+    "Map Bubble": {
+      "Container Width": {
+        "value": "100",
+        "type": "sizing"
+      },
+      "Logo Width": {
+        "value": "70",
+        "type": "sizing"
+      }
+    }
+  }
+}
