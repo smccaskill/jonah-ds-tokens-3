@@ -107,16 +107,36 @@
   },
   "Button": {
     "Height": {
-      "sm": {
-        "value": "{Premium One.Button Height.sm}",
+      "S": {
+        "value": "{Premium One.Button Height.S}",
         "type": "sizing"
       },
-      "md": {
-        "value": "{Premium One.Button Height.md}",
+      "M": {
+        "value": "{Premium One.Button Height.M}",
         "type": "sizing"
       },
-      "lg": {
-        "value": "{Premium One.Button Height.lg}",
+      "L": {
+        "value": "{Premium One.Button Height.L}",
+        "type": "sizing"
+      }
+    }
+  },
+  "Input": {
+    "Height": {
+      "S": {
+        "value": "40",
+        "type": "sizing"
+      },
+      "M": {
+        "value": "48",
+        "type": "sizing"
+      },
+      "L": {
+        "value": "50",
+        "type": "sizing"
+      },
+      "XL": {
+        "value": "55",
         "type": "sizing"
       }
     }

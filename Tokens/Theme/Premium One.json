@@ -58,11 +58,11 @@
     },
     "Line Height": {
       "Headings": {
-        "value": "{Line Height.s}",
+        "value": "{Line Height.S}",
         "type": "lineHeights"
       },
       "Body": {
-        "value": "{Line Height.xl}",
+        "value": "{Line Height.XL}",
         "type": "lineHeights"
       },
       "Button": {
@@ -307,7 +307,7 @@
         "fontSize": "{Font Size.Display.Display 1}",
         "letterSpacing": "{Theme.Letter Spacing.Headings}",
         "textCase": "{Theme.Text Case.Headings}",
-        "lineHeight": "{Line Height.s}"
+        "lineHeight": "{Line Height.S}"
       },
       "type": "typography"
     },
@@ -342,7 +342,7 @@
         "fontSize": "{Font Size.Heading.Heading 1}",
         "letterSpacing": "{Theme.Letter Spacing.Headings}",
         "textCase": "{Theme.Text Case.Headings}",
-        "lineHeight": "{Line Height.s}"
+        "lineHeight": "{Line Height.S}"
       },
       "type": "typography"
     },
