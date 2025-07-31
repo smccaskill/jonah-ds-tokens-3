@@ -121,24 +121,6 @@
       }
     }
   },
-  "Size": {
-    "Container": {
-      "Max Width": {
-        "value": "{Viewport.360}",
-        "type": "sizing"
-      }
-    },
-    "Map Bubble": {
-      "Container Width": {
-        "value": "100",
-        "type": "sizing"
-      },
-      "Logo Width": {
-        "value": "70",
-        "type": "sizing"
-      }
-    }
-  },
   "Input": {
     "Height": {
       "S": {
@@ -155,6 +137,24 @@
       },
       "XL": {
         "value": "55",
+        "type": "sizing"
+      }
+    }
+  },
+  "Size": {
+    "Container": {
+      "Max Width": {
+        "value": "{Viewport.360}",
+        "type": "sizing"
+      }
+    },
+    "Map Bubble": {
+      "Container Width": {
+        "value": "100",
+        "type": "sizing"
+      },
+      "Logo Width": {
+        "value": "70",
         "type": "sizing"
       }
     }
