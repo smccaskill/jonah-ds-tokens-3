@@ -686,20 +686,20 @@
       }
     },
     "XS": {
-      "Normal": {
+      "Light": {
         "value": {
           "fontFamily": "{Theme.Font Family.Body}",
-          "fontWeight": "{Theme.Font Weight.Body}",
+          "fontWeight": "{Font Weight.Light}",
           "fontSize": "{Font Size.Secondary.Body Extra Small}",
           "lineHeight": "{Theme.Line Height.Body}",
           "letterSpacing": "{Theme.Letter Spacing.Body}"
         },
         "type": "typography"
       },
-      "Light": {
+      "Normal": {
         "value": {
           "fontFamily": "{Theme.Font Family.Body}",
-          "fontWeight": "{Font Weight.Light}",
+          "fontWeight": "{Theme.Font Weight.Body}",
           "fontSize": "{Font Size.Secondary.Body Extra Small}",
           "lineHeight": "{Theme.Line Height.Body}",
           "letterSpacing": "{Theme.Letter Spacing.Body}"
